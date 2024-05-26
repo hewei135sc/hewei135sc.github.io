@@ -153,7 +153,7 @@ Started from V1.4, this module can be used even when sidebar is off and displaye
 
 ```yml
 # Featured Tags
-featured-tags: true  
+featured-tags: false  
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
 ```
 
